@@ -71,7 +71,7 @@ class StateChange:
             sys.exit(1)
     
     def __repr__(self):
-        return 'StateChange(type={}, resource={}, quantity={}'.format(
+        return 'StateChange(type={}, resource={}, quantity={})'.format(
             self.type, self.resource, self.quantity)
 
 
@@ -91,7 +91,8 @@ class LogItem:
         self.events = events
 
     def __repr__(self):
-        return "LogItem(text='{}', faction={}, events={})".format(self.text, self.faction, self.events)
+        return "LogItem(text='{}', faction={}, events={})".format(
+            self.text, self.faction, self.events)
 
     @staticmethod 
     def _get_faction(text):
