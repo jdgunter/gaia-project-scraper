@@ -273,9 +273,19 @@ class Stats():
                 stats.vp_lost_from_leech/stats.vp*100,
             ])
         print(tabulate(rows, headers=headers, floatfmt='.2f'))
+        print()
 
     def breakdown_resources(self):
-        pass
+        """Performs a breakdown of the resources gained by each faction."""
+        print('Resources breakdown:')
+        headers = ['Faction', 'Leech']
+        rows = []
+        for faction, stats in self.faction_stats.items():
+            rows.append([
+                faction,
+                stats.leech,
+            ])
+        print(tabulate(rows, headers=headers))
 
     def breakdown(self):
         self.breakdown_vp()
