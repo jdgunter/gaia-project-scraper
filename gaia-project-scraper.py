@@ -160,13 +160,11 @@ class GameLog:
         return GameLog(factions, items)
 
 
-class FactionStats:
-    """Track statistics for a specific faction in a game."""
+class VPStats:
+    """Object which tracks all stats related to VP counts."""
 
-    def __init__(self, faction):
-        self.faction = faction
+    def __init__(self):
         self.vp = 10
-        self.leech = 0
         self.vp_lost_from_leech = 0
         self.vp_from_round_scoring = 0
         self.vp_from_boosters = 0
@@ -178,7 +176,7 @@ class FactionStats:
         self.vp_from_tracks = 0
         self.vp_from_resources = 0
 
-    def _increment_vp_gains(self, action, change):
+    def update(self, action, change):
         """Increment VP statistics according to the action performed."""
         # If this doesn't change VP count, ignore it.
         if not change.resource == Res.VP:
@@ -201,27 +199,72 @@ class FactionStats:
             self.vp_from_tracks += change.quantity
         elif 'spend' == action:
             self.vp_from_resources += change.quantity
-        self.vp += change.quantity
-        
+        elif 'charge' == action:
+            self.vp_lost_from_leech -= change.quantity
+        # Increment or decrement total VP stats accordingly.
+        if change.type is ChangeType.GAIN:
+            self.vp += change.quantity
+        elif change.type is ChangeType.LOSS:
+            self.vp -= change.quantity
+        else:
+            raise ValueError('change.type must be either ChangeType.GAIN or '
+                             'ChangeType.LOSS, but was {}.'.format(change.type))
+
+
+class ResourceStats:
+    """Object which tracks all stats related to non-VP resources."""
+    
+    _RESOURCE_TO_FIELD_MAP = {
+        Res.COIN: 'coins',
+        Res.ORE: 'ore',
+        Res.KNOWLEDGE: 'knowledge',
+        Res.QIC: 'qic',
+        Res.PT: 'pt',
+    }
+
+    def __init__(self):
+        self.leech = 0
+        self.power = 0
+        self.coins = 0
+        self.ore = 0
+        self.knowledge = 0
+        self.qic = 0
+        self.pt = 0
+
+    def update(self, action, change):
+        """Increment resource statistics according to action performed."""
+        # Currently we only track total number of resources gained.
+        if change.type is ChangeType.LOSS:
+            return
+        # Handle power specially as both power and leech may need to be incrememented.
+        if change.resource is Res.POWER:
+            if 'charge' == action:
+                self.leech += change.quantity
+            self.power += change.quantity
+        else:
+            field = ResourceStats._RESOURCE_TO_FIELD_MAP[change.resource]
+            current_value = getattr(self,field)
+            setattr(self, field, current_value + change.quantity)
+
+
+class FactionStats:
+    """Track statistics for a specific faction in a game."""
+
+    def __init__(self, faction):
+        self.faction = faction
+        self.vp_stats = VPStats()        
+        self.resource_stats = ResourceStats()
 
     def augment(self, event):
         """Augment faction stats with data from a new event."""
         action = event[0]
         changes = event[1]
-        # Check if this was a passive charge action.
-        if 'charge' == action:
-            power_change = next(change for change in changes if change.resource == Res.POWER)
-            self.leech += power_change.quantity
-            try:
-                vp_change = next(change for change in changes if change.resource == Res.VP)
-                self.vp_lost_from_leech -= vp_change.quantity
-                self.vp -= vp_change.quantity
-            except StopIteration:
-                pass
-        # Next, check for any changes that resulted in a VP gain.
         for change in changes:
-            if change.resource == Res.VP and change.type == ChangeType.GAIN:
-                self._increment_vp_gains(action, change)
+            if change.resource == Res.VP:
+                self.vp_stats.update(action, change)
+            else:
+                self.resource_stats.update(action, change)
+
 
 
 class Stats:
@@ -244,17 +287,17 @@ class Stats:
         for faction, stats in self.faction_stats.items():
             rows.append([
                 faction,
-                stats.vp,
-                stats.vp_from_round_scoring,
-                stats.vp_from_boosters,
-                stats.vp_from_endgame,
-                stats.vp_from_techs,
-                stats.vp_from_adv_techs,
-                stats.vp_from_feds,
-                stats.vp_from_qic_act,
-                stats.vp_from_tracks,
-                stats.vp_from_resources,
-                stats.vp_lost_from_leech,
+                stats.vp_stats.vp,
+                stats.vp_stats.vp_from_round_scoring,
+                stats.vp_stats.vp_from_boosters,
+                stats.vp_stats.vp_from_endgame,
+                stats.vp_stats.vp_from_techs,
+                stats.vp_stats.vp_from_adv_techs,
+                stats.vp_stats.vp_from_feds,
+                stats.vp_stats.vp_from_qic_act,
+                stats.vp_stats.vp_from_tracks,
+                stats.vp_stats.vp_from_resources,
+                stats.vp_stats.vp_lost_from_leech,
             ])
         print(tabulate(rows, headers=headers))
         print()
@@ -263,18 +306,19 @@ class Stats:
         headers.remove('Total VP')
         rows = []
         for faction, stats in self.faction_stats.items():
+            total_vps = stats.vp_stats.vp
             rows.append([
                 faction,
-                stats.vp_from_round_scoring/stats.vp*100,
-                stats.vp_from_boosters/stats.vp*100,
-                stats.vp_from_endgame/stats.vp*100,
-                stats.vp_from_techs/stats.vp*100,
-                stats.vp_from_adv_techs/stats.vp*100,
-                stats.vp_from_feds/stats.vp*100,
-                stats.vp_from_qic_act/stats.vp*100,
-                stats.vp_from_tracks/stats.vp*100,
-                stats.vp_from_resources/stats.vp*100,
-                stats.vp_lost_from_leech/stats.vp*100,
+                stats.vp_stats.vp_from_round_scoring/total_vps*100,
+                stats.vp_stats.vp_from_boosters/total_vps*100,
+                stats.vp_stats.vp_from_endgame/total_vps*100,
+                stats.vp_stats.vp_from_techs/total_vps*100,
+                stats.vp_stats.vp_from_adv_techs/total_vps*100,
+                stats.vp_stats.vp_from_feds/total_vps*100,
+                stats.vp_stats.vp_from_qic_act/total_vps*100,
+                stats.vp_stats.vp_from_tracks/total_vps*100,
+                stats.vp_stats.vp_from_resources/total_vps*100,
+                stats.vp_stats.vp_lost_from_leech/total_vps*100,
             ])
         print(tabulate(rows, headers=headers, floatfmt='.2f'))
         print()
@@ -282,12 +326,18 @@ class Stats:
     def breakdown_resources(self):
         """Performs a breakdown of the resources gained by each faction."""
         print('Resources breakdown:')
-        headers = ['Faction', 'Leech']
+        headers = ['Faction', 'Power', 'Leech', 'Coins', 'Ore', 'Knowledge', 'QIC', 'Power Tokens']
         rows = []
         for faction, stats in self.faction_stats.items():
             rows.append([
                 faction,
-                stats.leech,
+                stats.resource_stats.power,
+                stats.resource_stats.leech,
+                stats.resource_stats.coins,
+                stats.resource_stats.ore,
+                stats.resource_stats.knowledge,
+                stats.resource_stats.qic,
+                stats.resource_stats.pt,
             ])
         print(tabulate(rows, headers=headers))
 
