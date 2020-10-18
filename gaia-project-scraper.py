@@ -13,7 +13,7 @@ from tabulate import tabulate
 
 
 _FACTIONS = [
-    'ambas', 'baltaks', 'bescods', 'firaks', 'geodens', 'gleens', 'hadsch hallas', 
+    'ambas', 'baltaks', 'bescods', 'firaks', 'geodens', 'gleens', 'hadsch-hallas', 
     'itars', 'ivits', 'lantids', 'nevlas', 'taklons', 'terrans', 'xenos']
 
 _TECH_TRACKS = ['terra', 'nav', 'int', 'gaia', 'eco', 'sci']
