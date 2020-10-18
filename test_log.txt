@@ -1,0 +1,3025 @@
+<div class="col-12 order-last mt-4" data-v-56594ec2="">
+ <table class="table table-hover table-striped table-sm" data-v-56594ec2="">
+  <tbody data-v-56594ec2="">
+   <tr class="major-event" data-v-56594ec2="">
+    <td colspan="3" data-v-56594ec2="">
+     Game Ended
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      final1
+     </div>
+     <div data-v-56594ec2="">
+      final2
+     </div>
+     <div data-v-56594ec2="">
+      nav
+     </div>
+     <div data-v-56594ec2="">
+      gaia
+     </div>
+     <div data-v-56594ec2="">
+      spend
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      15vp
+     </div>
+     <div data-v-56594ec2="">
+      18vp
+     </div>
+     <div data-v-56594ec2="">
+      12vp
+     </div>
+     <div data-v-56594ec2="">
+      12vp
+     </div>
+     <div data-v-56594ec2="">
+      3vp
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      final1
+     </div>
+     <div data-v-56594ec2="">
+      final2
+     </div>
+     <div data-v-56594ec2="">
+      terra
+     </div>
+     <div data-v-56594ec2="">
+      nav
+     </div>
+     <div data-v-56594ec2="">
+      int
+     </div>
+     <div data-v-56594ec2="">
+      eco
+     </div>
+     <div data-v-56594ec2="">
+      sci
+     </div>
+     <div data-v-56594ec2="">
+      spend
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      15vp
+     </div>
+     <div data-v-56594ec2="">
+      6vp
+     </div>
+     <div data-v-56594ec2="">
+      12vp
+     </div>
+     <div data-v-56594ec2="">
+      8vp
+     </div>
+     <div data-v-56594ec2="">
+      12vp
+     </div>
+     <div data-v-56594ec2="">
+      4vp
+     </div>
+     <div data-v-56594ec2="">
+      12vp
+     </div>
+     <div data-v-56594ec2="">
+      2vp
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td class="phase-change" data-v-56594ec2="">
+     End scoring
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars pass
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      booster9
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      12vp
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars up eco.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      up
+     </div>
+     <div data-v-56594ec2="">
+      eco
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -4k
+     </div>
+     <div data-v-56594ec2="">
+      3pw
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars action qic1. tech adv-nav. cover eco. up eco.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      qic1
+     </div>
+     <div data-v-56594ec2="">
+      adv-nav
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -4q
+     </div>
+     <div data-v-56594ec2="">
+      4vp
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars spend 1q for 1o. build m 6A8.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      spend
+     </div>
+     <div data-v-56594ec2="">
+      build
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -1q, 1o
+     </div>
+     <div data-v-56594ec2="">
+      -2c, -4o
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars up int.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      up
+     </div>
+     <div data-v-56594ec2="">
+      int
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -4k
+     </div>
+     <div data-v-56594ec2="">
+      4q
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars up sci.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      up
+     </div>
+     <div data-v-56594ec2="">
+      sci
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -4k
+     </div>
+     <div data-v-56594ec2="">
+      9k
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars federation 4A10,4A11,8A0,8A5,8B0,8B1,8B2 fed6.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      federation
+     </div>
+     <div data-v-56594ec2="">
+      round6
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -3t, 6vp, 2k
+     </div>
+     <div data-v-56594ec2="">
+      5vp
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans charge 1pw
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      charge
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      1pw
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars build m 8B2.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      build
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -2c, -2o
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans pass
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars build m 4A10.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      build
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -2c, -2o
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars decline 4pw
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans build lab 7B5. tech adv-gaia. cover free2. up gaia.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      build
+     </div>
+     <div data-v-56594ec2="">
+      adv-gaia
+     </div>
+     <div data-v-56594ec2="">
+      gaia
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -5c, -3o
+     </div>
+     <div data-v-56594ec2="">
+      14vp
+     </div>
+     <div data-v-56594ec2="">
+      13vp
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars up nav.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      up
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -4k
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans federation 3A2,3A3,3A4,3B1,4A6,4A7,7A0,7A11,7B5 fed4.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      federation
+     </div>
+     <div data-v-56594ec2="">
+      round6
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -4t, 7vp, 2o
+     </div>
+     <div data-v-56594ec2="">
+      5vp
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars federation 7A3,7A7,7A8,7B2,7B3 fed4.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      federation
+     </div>
+     <div data-v-56594ec2="">
+      round6
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -2t, 7vp, 2o
+     </div>
+     <div data-v-56594ec2="">
+      5vp
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans build m 7A0.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      build
+     </div>
+     <div data-v-56594ec2="">
+      tech-nav
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -2c, -1o
+     </div>
+     <div data-v-56594ec2="">
+      3vp
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans decline 2pw
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars build ts 7A8.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      build
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -3c, -2o
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars decline 4pw
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans build ts 7B5.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      build
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -3c, -2o
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars build m 7A3.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      build
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -2c, -3o
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans federation 2A8,2A9,5A1,5A2,2A6,3A11 fed5.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      federation
+     </div>
+     <div data-v-56594ec2="">
+      round6
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -3t, 7vp, 6c
+     </div>
+     <div data-v-56594ec2="">
+      5vp
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars up terra.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      up
+     </div>
+     <div data-v-56594ec2="">
+      federation
+     </div>
+     <div data-v-56594ec2="">
+      round6
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -4k
+     </div>
+     <div data-v-56594ec2="">
+      6vp, 2k
+     </div>
+     <div data-v-56594ec2="">
+      5vp
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans action qic3.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      qic3
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -2q, 7vp
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars special q.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      income
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      1q
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars decline 4pw
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans up nav. lostPlanet 5A1.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      up
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -4k
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars action qic2. fedtile fed4.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      qic2
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -3q, 7vp, 2o
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans federation 8A2,6A10,6B5,6A9,6B4,6B3 fed5.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      federation
+     </div>
+     <div data-v-56594ec2="">
+      round6
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -2t, 7vp, 6c
+     </div>
+     <div data-v-56594ec2="">
+      5vp
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars action power4.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      power4
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -4pw, 7c
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans build m 6A5.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      build
+     </div>
+     <div data-v-56594ec2="">
+      tech-nav
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -2c, -1o
+     </div>
+     <div data-v-56594ec2="">
+      3vp
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars special 4pw.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      tech-sci
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      4pw
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars decline 4pw
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans build ts 2A9.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      build
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -3c, -2o
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars spend 2pw for 2c. federation 2A6,5A2,5A3,3A9 fed4.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      spend
+     </div>
+     <div data-v-56594ec2="">
+      federation
+     </div>
+     <div data-v-56594ec2="">
+      round6
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -2pw, 2c
+     </div>
+     <div data-v-56594ec2="">
+      -4t, 7vp, 2o
+     </div>
+     <div data-v-56594ec2="">
+      5vp
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans special q.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      income
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      1q
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td class="phase-change" data-v-56594ec2="">
+     Gaia phase
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars income 4pw. income 4pw. income 1pw
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      income
+     </div>
+     <div data-v-56594ec2="">
+      booster9
+     </div>
+     <div data-v-56594ec2="">
+      eco
+     </div>
+     <div data-v-56594ec2="">
+      tech-free3
+     </div>
+     <div data-v-56594ec2="">
+      sci
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      4pw, 5o, 4k, 2t
+     </div>
+     <div data-v-56594ec2="">
+      4pw
+     </div>
+     <div data-v-56594ec2="">
+      2c, 1pw
+     </div>
+     <div data-v-56594ec2="">
+      4c
+     </div>
+     <div data-v-56594ec2="">
+      4k
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      income
+     </div>
+     <div data-v-56594ec2="">
+      tech-free3
+     </div>
+     <div data-v-56594ec2="">
+      booster2
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      8o, 3k, 3c
+     </div>
+     <div data-v-56594ec2="">
+      4c
+     </div>
+     <div data-v-56594ec2="">
+      1o, 2t
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td class="phase-change" data-v-56594ec2="">
+     Income phase
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td class="major-event" data-v-56594ec2="">
+     Round 6
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars pass booster9
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      booster6
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      5vp
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans pass booster2
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      booster9
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      8vp
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars special q.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      income
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      1q
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans spend 1pw for 1c. special q.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      spend
+     </div>
+     <div data-v-56594ec2="">
+      income
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -1pw, 1c
+     </div>
+     <div data-v-56594ec2="">
+      1q
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans charge 1pw
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      charge
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      1pw
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars spend 3pw for 3c. build ac2 7B3. tech free1. up int.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      spend
+     </div>
+     <div data-v-56594ec2="">
+      build
+     </div>
+     <div data-v-56594ec2="">
+      int
+     </div>
+     <div data-v-56594ec2="">
+      round5
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -3pw, 3c
+     </div>
+     <div data-v-56594ec2="">
+      -6c, -6o
+     </div>
+     <div data-v-56594ec2="">
+      2q
+     </div>
+     <div data-v-56594ec2="">
+      5vp
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans build gf 6A5.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars action power3.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      power3
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -4pw, 2o
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars charge 2pw
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      charge
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      2pw, -1vp
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans spend 3pw for 1o. build ac2 8A2. tech free1. up gaia.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      spend
+     </div>
+     <div data-v-56594ec2="">
+      build
+     </div>
+     <div data-v-56594ec2="">
+      round5
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -3pw, 1o
+     </div>
+     <div data-v-56594ec2="">
+      -6c, -6o
+     </div>
+     <div data-v-56594ec2="">
+      5vp
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars spend 1pw for 1c. up nav. spend 1pw for 1c.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      spend
+     </div>
+     <div data-v-56594ec2="">
+      up
+     </div>
+     <div data-v-56594ec2="">
+      nav
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -2pw, 2c
+     </div>
+     <div data-v-56594ec2="">
+      -4k
+     </div>
+     <div data-v-56594ec2="">
+      1q, 3pw
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars charge 3pw
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      charge
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      3pw, -2vp
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans build lab 8A2. tech free2. up nav.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      build
+     </div>
+     <div data-v-56594ec2="">
+      tech-free2
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -5c, -3o
+     </div>
+     <div data-v-56594ec2="">
+      7vp
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans charge 1pw
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      charge
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      1pw
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars spend 2pw for 2c. build lab 7B3. tech eco. up eco.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      spend
+     </div>
+     <div data-v-56594ec2="">
+      build
+     </div>
+     <div data-v-56594ec2="">
+      tech-eco
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -2pw, 2c
+     </div>
+     <div data-v-56594ec2="">
+      -5c, -3o
+     </div>
+     <div data-v-56594ec2="">
+      4k
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars charge 1pw
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      charge
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      1pw
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans build m 2A9.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      build
+     </div>
+     <div data-v-56594ec2="">
+      tech-nav
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -2c, -1o
+     </div>
+     <div data-v-56594ec2="">
+      3vp
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans charge 1pw
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      charge
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      1pw
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars build ts 7B3.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      build
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -3c, -2o
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans build gf 7A0.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars up terra.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      up
+     </div>
+     <div data-v-56594ec2="">
+      terra
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -4k
+     </div>
+     <div data-v-56594ec2="">
+      2o
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars charge 1pw
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      charge
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      1pw
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans build ts 3B1.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      build
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -3c, -2o
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars up terra.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      up
+     </div>
+     <div data-v-56594ec2="">
+      terra
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -4k
+     </div>
+     <div data-v-56594ec2="">
+      3pw
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans action power4.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      power4
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -4pw, 7c
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars special 4pw.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      tech-sci
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      4pw
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans up gaia.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      up
+     </div>
+     <div data-v-56594ec2="">
+      gaia
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -4k
+     </div>
+     <div data-v-56594ec2="">
+      3pw
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars spend 4tg for tech. tech free2. up terra
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      tech-free2
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      7vp
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td class="phase-change" data-v-56594ec2="">
+     Gaia phase
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars income 4pw
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      income
+     </div>
+     <div data-v-56594ec2="">
+      tech-free3
+     </div>
+     <div data-v-56594ec2="">
+      sci
+     </div>
+     <div data-v-56594ec2="">
+      booster6
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      4pw, 6o, 4k, 2t
+     </div>
+     <div data-v-56594ec2="">
+      4c
+     </div>
+     <div data-v-56594ec2="">
+      4k
+     </div>
+     <div data-v-56594ec2="">
+      1o
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      income
+     </div>
+     <div data-v-56594ec2="">
+      tech-free3
+     </div>
+     <div data-v-56594ec2="">
+      booster9
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      8o, 3k, 3c
+     </div>
+     <div data-v-56594ec2="">
+      4c
+     </div>
+     <div data-v-56594ec2="">
+      4pw
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td class="phase-change" data-v-56594ec2="">
+     Income phase
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td class="major-event" data-v-56594ec2="">
+     Round 5
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars pass booster6
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans charge 1pw
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      charge
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      1pw
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars build m 7B3.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      build
+     </div>
+     <div data-v-56594ec2="">
+      tech-nav
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -2c, -1o, -1q
+     </div>
+     <div data-v-56594ec2="">
+      3vp
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans charge 1pw
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      charge
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      1pw
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars special step. build m 7A8.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      build
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -2c, -1o, -1q
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars action power3.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      power3
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -4pw, 2o
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars up int.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      up
+     </div>
+     <div data-v-56594ec2="">
+      int
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -4k
+     </div>
+     <div data-v-56594ec2="">
+      2q, 3pw
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars special 4pw.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      tech-sci
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      4pw
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans spend 2pw for 2c. pass booster9
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      spend
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -2pw, 2c
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans charge 3pw
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      charge
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      3pw, -2vp
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars build m 3B4.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      build
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -2c, -1o
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans burn 1. spend 1pw for 1c. build m 7B5.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      spend
+     </div>
+     <div data-v-56594ec2="">
+      build
+     </div>
+     <div data-v-56594ec2="">
+      tech-nav
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -1pw, 1c
+     </div>
+     <div data-v-56594ec2="">
+      -2c, -1o, -1q
+     </div>
+     <div data-v-56594ec2="">
+      3vp
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars build m 5A4.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      build
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -2c, -1o
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans build gf 2A9.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      build
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -1q
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars up nav.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      up
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -4k
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans build m 3A4.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      build
+     </div>
+     <div data-v-56594ec2="">
+      tech-nav
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -2c, -1o
+     </div>
+     <div data-v-56594ec2="">
+      3vp
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars burn 3. burn 1. spend 4pw for 1q. build m 5B1.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      spend
+     </div>
+     <div data-v-56594ec2="">
+      build
+     </div>
+     <div data-v-56594ec2="">
+      tech-nav
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -4pw, 1q
+     </div>
+     <div data-v-56594ec2="">
+      -2c, -1o, -2q
+     </div>
+     <div data-v-56594ec2="">
+      3vp
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars charge 3pw
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      charge
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      3pw, -2vp
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans build ts 8A2.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      build
+     </div>
+     <div data-v-56594ec2="">
+      round4
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -3c, -2o
+     </div>
+     <div data-v-56594ec2="">
+      3vp
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars spend 4tg for tech. tech nav. up nav
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      nav
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      1q
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td class="phase-change" data-v-56594ec2="">
+     Gaia phase
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars income 4pw
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      income
+     </div>
+     <div data-v-56594ec2="">
+      tech-free3
+     </div>
+     <div data-v-56594ec2="">
+      sci
+     </div>
+     <div data-v-56594ec2="">
+      booster4
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      4pw, 2o, 4k, 2t
+     </div>
+     <div data-v-56594ec2="">
+      4c
+     </div>
+     <div data-v-56594ec2="">
+      4k
+     </div>
+     <div data-v-56594ec2="">
+      2c
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      income
+     </div>
+     <div data-v-56594ec2="">
+      tech-free3
+     </div>
+     <div data-v-56594ec2="">
+      booster3
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      7o, 3k
+     </div>
+     <div data-v-56594ec2="">
+      4c
+     </div>
+     <div data-v-56594ec2="">
+      1q, 2c
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td class="phase-change" data-v-56594ec2="">
+     Income phase
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td class="major-event" data-v-56594ec2="">
+     Round 4
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars pass booster4
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      booster9
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      8vp
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans charge 1pw
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      charge
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      1pw
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars build PI 8B0.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      build
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -6c, -4o
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans charge 1pw
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      charge
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      1pw
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars build ts 8B0.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      build
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -3c, -2o
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars action power3.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      power3
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -4pw, 2o
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans pass booster3
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      booster6
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      7vp
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars up sci.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      up
+     </div>
+     <div data-v-56594ec2="">
+      round3
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -4k
+     </div>
+     <div data-v-56594ec2="">
+      2vp
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans build gf 3A4.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars special 4pw.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      tech-sci
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      4pw
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars charge 1pw
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      charge
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      1pw
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans spend 1q for 1o. spend 1o for 1c. spend 1pw for 1c. build m 8A2.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      spend
+     </div>
+     <div data-v-56594ec2="">
+      build
+     </div>
+     <div data-v-56594ec2="">
+      tech-nav
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -1q, 0o, 2c, -1pw
+     </div>
+     <div data-v-56594ec2="">
+      -2c, -1o
+     </div>
+     <div data-v-56594ec2="">
+      3vp
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars up sci.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      up
+     </div>
+     <div data-v-56594ec2="">
+      sci
+     </div>
+     <div data-v-56594ec2="">
+      round3
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -4k
+     </div>
+     <div data-v-56594ec2="">
+      3pw
+     </div>
+     <div data-v-56594ec2="">
+      2vp
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars charge 3pw
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      charge
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      3pw, -2vp
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans burn 2. spend 4pw for 4c. build ac1 3A11. tech free3. up gaia.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      spend
+     </div>
+     <div data-v-56594ec2="">
+      build
+     </div>
+     <div data-v-56594ec2="">
+      gaia
+     </div>
+     <div data-v-56594ec2="">
+      round3
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -4pw, 4c
+     </div>
+     <div data-v-56594ec2="">
+      -6c, -6o
+     </div>
+     <div data-v-56594ec2="">
+      3t
+     </div>
+     <div data-v-56594ec2="">
+      2vp
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars burn 4. action power4.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      power4
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -4pw, 7c
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans up nav.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      up
+     </div>
+     <div data-v-56594ec2="">
+      nav
+     </div>
+     <div data-v-56594ec2="">
+      round3
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -4k
+     </div>
+     <div data-v-56594ec2="">
+      1q, 3pw
+     </div>
+     <div data-v-56594ec2="">
+      2vp
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars up sci.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      up
+     </div>
+     <div data-v-56594ec2="">
+      round3
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -4k
+     </div>
+     <div data-v-56594ec2="">
+      2vp
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td class="phase-change" data-v-56594ec2="">
+     Gaia phase
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      income
+     </div>
+     <div data-v-56594ec2="">
+      booster6
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      6o, 2k
+     </div>
+     <div data-v-56594ec2="">
+      1o
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars income 4pw
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      booster9
+     </div>
+     <div data-v-56594ec2="">
+      income
+     </div>
+     <div data-v-56594ec2="">
+      tech-free3
+     </div>
+     <div data-v-56594ec2="">
+      sci
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      4pw
+     </div>
+     <div data-v-56594ec2="">
+      3o, 4k, 1t
+     </div>
+     <div data-v-56594ec2="">
+      4c
+     </div>
+     <div data-v-56594ec2="">
+      1k
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td class="phase-change" data-v-56594ec2="">
+     Income phase
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td class="major-event" data-v-56594ec2="">
+     Round 3
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans pass booster6
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans build gf 8A2.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars pass booster9
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans build m 4A2.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      build
+     </div>
+     <div data-v-56594ec2="">
+      round2
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -2c, -1o
+     </div>
+     <div data-v-56594ec2="">
+      2vp
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars special 4pw.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      tech-sci
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      4pw
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans build m 6B5.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      build
+     </div>
+     <div data-v-56594ec2="">
+      tech-nav
+     </div>
+     <div data-v-56594ec2="">
+      round2
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -2c, -1o, -1q
+     </div>
+     <div data-v-56594ec2="">
+      3vp
+     </div>
+     <div data-v-56594ec2="">
+      2vp
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars special step. build m 8A0.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      build
+     </div>
+     <div data-v-56594ec2="">
+      round2
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -2c, -1o
+     </div>
+     <div data-v-56594ec2="">
+      2vp
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans build m 6A9.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      build
+     </div>
+     <div data-v-56594ec2="">
+      tech-nav
+     </div>
+     <div data-v-56594ec2="">
+      round2
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -2c, -1o
+     </div>
+     <div data-v-56594ec2="">
+      3vp
+     </div>
+     <div data-v-56594ec2="">
+      2vp
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td class="phase-change" data-v-56594ec2="">
+     Gaia phase
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      income
+     </div>
+     <div data-v-56594ec2="">
+      tech-free3
+     </div>
+     <div data-v-56594ec2="">
+      sci
+     </div>
+     <div data-v-56594ec2="">
+      booster4
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      2o, 4k, 1t
+     </div>
+     <div data-v-56594ec2="">
+      4c
+     </div>
+     <div data-v-56594ec2="">
+      1k
+     </div>
+     <div data-v-56594ec2="">
+      2c
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      income
+     </div>
+     <div data-v-56594ec2="">
+      booster3
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      3o, 2k
+     </div>
+     <div data-v-56594ec2="">
+      1q, 2c
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td class="phase-change" data-v-56594ec2="">
+     Income phase
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td class="major-event" data-v-56594ec2="">
+     Round 2
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars pass booster4
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      booster9
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      4vp
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars burn 4. action power5.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      power5
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -4pw, 2k
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans pass booster3
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars special 4pw.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      tech-sci
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      4pw
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans spend 1pw for 1c. build gf 6A9.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      spend
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -1pw, 1c
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars action qic1. tech sci. up sci.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      qic1
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -4q
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans special step. build m 4A7.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      build
+     </div>
+     <div data-v-56594ec2="">
+      round1
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -2c, -1o
+     </div>
+     <div data-v-56594ec2="">
+      2vp
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans charge 2pw
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      charge
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      2pw, -1vp
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars build ac1 2B3. tech free3. up int.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      build
+     </div>
+     <div data-v-56594ec2="">
+      int
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -6c, -6o
+     </div>
+     <div data-v-56594ec2="">
+      1q
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans build m 3B1.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      build
+     </div>
+     <div data-v-56594ec2="">
+      tech-nav
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -2c, -1o, -1q
+     </div>
+     <div data-v-56594ec2="">
+      3vp
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars burn 1. action power3.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      power3
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -4pw, 2o
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars charge 2pw
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      charge
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      2pw, -1vp
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans build lab 3A11. tech nav. up nav.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      build
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -5c, -3o
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars up int.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      up
+     </div>
+     <div data-v-56594ec2="">
+      int
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -4k
+     </div>
+     <div data-v-56594ec2="">
+      1q
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans up nav.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      up
+     </div>
+     <div data-v-56594ec2="">
+      nav
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -4k
+     </div>
+     <div data-v-56594ec2="">
+      1q
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans charge 2pw
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      charge
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      2pw, -1vp
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars build lab 2B3. tech terra. up terra.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      build
+     </div>
+     <div data-v-56594ec2="">
+      tech-terra
+     </div>
+     <div data-v-56594ec2="">
+      terra
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -5c, -3o
+     </div>
+     <div data-v-56594ec2="">
+      1o, 1q
+     </div>
+     <div data-v-56594ec2="">
+      2o
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars charge 2pw
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      charge
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      2pw, -1vp
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans build ts 3A11.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      build
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -3c, -2o
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans charge 1pw
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      charge
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      1pw
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars build ts 2B3.
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      build
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      -3c, -2o
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td class="phase-change" data-v-56594ec2="">
+     Gaia phase
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      income
+     </div>
+     <div data-v-56594ec2="">
+      booster4
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      3o, 1k
+     </div>
+     <div data-v-56594ec2="">
+      2c
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars income 4pw
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      booster9
+     </div>
+     <div data-v-56594ec2="">
+      income
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      4pw
+     </div>
+     <div data-v-56594ec2="">
+      3o, 1k, 1t
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td class="phase-change" data-v-56594ec2="">
+     Income phase
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td class="major-event" data-v-56594ec2="">
+     Round 1
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars booster booster9
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans booster booster4
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars build m 8B0
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans build m 6B3
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans build m 3A11
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars build m 2B3
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     terrans
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      income
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      3k, 4o, 15c, 1q
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     itars
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      income
+     </div>
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+     <div data-v-56594ec2="">
+      3k, 5o, 15c, 1q
+     </div>
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     p2 faction terrans
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     p1 faction itars
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     p2 rotate -2x-3 3 0x0 1 -3x5 5 5x-2 4 -8x7 2
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+   </tr>
+   <tr data-v-56594ec2="">
+    <td data-v-56594ec2="">
+     init 2 Watery-surface-448
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+    <td data-v-56594ec2="" style="width: 1px; white-space: nowrap;">
+    </td>
+   </tr>
+   <tr class="major-event" data-v-56594ec2="">
+    <td colspan="3" data-v-56594ec2="">
+     Game Started
+    </td>
+   </tr>
+  </tbody>
+ </table>
+</div>
