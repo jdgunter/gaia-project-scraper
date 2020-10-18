@@ -176,8 +176,10 @@ class VPStats:
         self.vp_from_tracks = 0
         self.vp_from_resources = 0
 
-    def update(self, action, change):
+    def update_vp(self, action, change):
         """Increment VP statistics according to the action performed."""
+        # change.type must be either ChangeType.GAIN or ChangeType.LOSS
+        assert change.type is ChangeType.GAIN or change.type is ChangeType.LOSS
         # If this doesn't change VP count, ignore it.
         if not change.resource == Res.VP:
             return
@@ -206,9 +208,6 @@ class VPStats:
             self.vp += change.quantity
         elif change.type is ChangeType.LOSS:
             self.vp -= change.quantity
-        else:
-            raise ValueError('change.type must be either ChangeType.GAIN or '
-                             'ChangeType.LOSS, but was {}.'.format(change.type))
 
 
 class ResourceStats:
@@ -231,11 +230,13 @@ class ResourceStats:
         self.qic = 0
         self.pt = 0
 
-    def update(self, action, change):
+    def update_resources(self, action, change):
         """Increment resource statistics according to action performed."""
         # Currently we only track total number of resources gained.
         if change.type is ChangeType.LOSS:
             return
+        # The type of change should be ChangeType.GAIN if it is not ChangeType.LOSS.
+        assert change.type == ChangeType.GAIN
         # Handle power specially as both power and leech may need to be incrememented.
         if change.resource is Res.POWER:
             if 'charge' == action:
@@ -247,13 +248,13 @@ class ResourceStats:
             setattr(self, field, current_value + change.quantity)
 
 
-class FactionStats:
+class FactionStats(VPStats, ResourceStats):
     """Track statistics for a specific faction in a game."""
 
     def __init__(self, faction):
         self.faction = faction
-        self.vp_stats = VPStats()        
-        self.resource_stats = ResourceStats()
+        VPStats.__init__(self)
+        ResourceStats.__init__(self)
 
     def augment(self, event):
         """Augment faction stats with data from a new event."""
@@ -261,10 +262,9 @@ class FactionStats:
         changes = event[1]
         for change in changes:
             if change.resource == Res.VP:
-                self.vp_stats.update(action, change)
+                self.update_vp(action, change)
             else:
-                self.resource_stats.update(action, change)
-
+                self.update_resources(action, change)
 
 
 class Stats:
@@ -287,17 +287,17 @@ class Stats:
         for faction, stats in self.faction_stats.items():
             rows.append([
                 faction,
-                stats.vp_stats.vp,
-                stats.vp_stats.vp_from_round_scoring,
-                stats.vp_stats.vp_from_boosters,
-                stats.vp_stats.vp_from_endgame,
-                stats.vp_stats.vp_from_techs,
-                stats.vp_stats.vp_from_adv_techs,
-                stats.vp_stats.vp_from_feds,
-                stats.vp_stats.vp_from_qic_act,
-                stats.vp_stats.vp_from_tracks,
-                stats.vp_stats.vp_from_resources,
-                stats.vp_stats.vp_lost_from_leech,
+                stats.vp,
+                stats.vp_from_round_scoring,
+                stats.vp_from_boosters,
+                stats.vp_from_endgame,
+                stats.vp_from_techs,
+                stats.vp_from_adv_techs,
+                stats.vp_from_feds,
+                stats.vp_from_qic_act,
+                stats.vp_from_tracks,
+                stats.vp_from_resources,
+                stats.vp_lost_from_leech,
             ])
         print(tabulate(rows, headers=headers))
         print()
@@ -306,19 +306,18 @@ class Stats:
         headers.remove('Total VP')
         rows = []
         for faction, stats in self.faction_stats.items():
-            total_vps = stats.vp_stats.vp
             rows.append([
                 faction,
-                stats.vp_stats.vp_from_round_scoring/total_vps*100,
-                stats.vp_stats.vp_from_boosters/total_vps*100,
-                stats.vp_stats.vp_from_endgame/total_vps*100,
-                stats.vp_stats.vp_from_techs/total_vps*100,
-                stats.vp_stats.vp_from_adv_techs/total_vps*100,
-                stats.vp_stats.vp_from_feds/total_vps*100,
-                stats.vp_stats.vp_from_qic_act/total_vps*100,
-                stats.vp_stats.vp_from_tracks/total_vps*100,
-                stats.vp_stats.vp_from_resources/total_vps*100,
-                stats.vp_stats.vp_lost_from_leech/total_vps*100,
+                stats.vp_from_round_scoring/stats.vp*100,
+                stats.vp_from_boosters/stats.vp*100,
+                stats.vp_from_endgame/stats.vp*100,
+                stats.vp_from_techs/stats.vp*100,
+                stats.vp_from_adv_techs/stats.vp*100,
+                stats.vp_from_feds/stats.vp*100,
+                stats.vp_from_qic_act/stats.vp*100,
+                stats.vp_from_tracks/stats.vp*100,
+                stats.vp_from_resources/stats.vp*100,
+                stats.vp_lost_from_leech/stats.vp*100,
             ])
         print(tabulate(rows, headers=headers, floatfmt='.2f'))
         print()
@@ -331,13 +330,13 @@ class Stats:
         for faction, stats in self.faction_stats.items():
             rows.append([
                 faction,
-                stats.resource_stats.power,
-                stats.resource_stats.leech,
-                stats.resource_stats.coins,
-                stats.resource_stats.ore,
-                stats.resource_stats.knowledge,
-                stats.resource_stats.qic,
-                stats.resource_stats.pt,
+                stats.power,
+                stats.leech,
+                stats.coins,
+                stats.ore,
+                stats.knowledge,
+                stats.qic,
+                stats.pt,
             ])
         print(tabulate(rows, headers=headers))
 
