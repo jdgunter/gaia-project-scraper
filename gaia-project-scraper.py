@@ -34,7 +34,9 @@ class ChangeType(Enum):
     LOSS = 2
 
 
-class StateChange():
+class StateChange:
+    """Represents a single change in the game state."""
+    
     _RESOURCE_MAP = {
         'c':  Res.COIN,
         'o':  Res.ORE,
@@ -73,7 +75,7 @@ class StateChange():
             self.type, self.resource, self.quantity)
 
 
-class LogItem():
+class LogItem:
     """A single log item."""
 
     def __init__(self, text, faction, events):
@@ -119,6 +121,7 @@ class LogItem():
 
     @staticmethod
     def parse_from_HTML(row):
+        """Constructs a LogItem from a <tr> HTML element."""
         cols = row.find_all('td')
         if len(cols) < 1:
             raise ValueError('The row {} is empty.'.format(row))
@@ -132,7 +135,7 @@ class LogItem():
         return LogItem(text, faction, events)
 
 
-class GameLog():
+class GameLog:
     """A log of all actions taken in a game."""
 
     def __init__(self, factions, items):
@@ -156,7 +159,7 @@ class GameLog():
         return GameLog(factions, items)
 
 
-class FactionStats():
+class FactionStats:
     """Track statistics for a specific faction in a game."""
 
     def __init__(self, faction):
@@ -220,7 +223,7 @@ class FactionStats():
                 self._increment_vp_gains(action, change)
 
 
-class Stats():
+class Stats:
     """Compute statistics from a given GameLog."""
 
     def __init__(self, log):
@@ -288,8 +291,23 @@ class Stats():
         print(tabulate(rows, headers=headers))
 
     def breakdown(self):
+        """Breakdown VP and resources."""
         self.breakdown_vp()
         self.breakdown_resources()
+
+
+def test_main():
+    """Use a local HTML file to test stats breakdown."""
+    html = None
+    with open('/home/jgunter/Projects/gaia-project-scraper/test_log.txt') as f:
+        html = f.read()
+
+    if html:
+        soup = BeautifulSoup(html, 'lxml')
+        raw_game_log = soup.find('div', class_='col-12 order-last mt-4')
+        log = GameLog.parse_from_HTML(raw_game_log)
+        stats = Stats(log)
+        stats.breakdown()
 
 
 def main():
@@ -315,20 +333,6 @@ def main():
     else:
         html = browser.page_source
     
-    if html:
-        soup = BeautifulSoup(html, 'lxml')
-        raw_game_log = soup.find('div', class_='col-12 order-last mt-4')
-        log = GameLog.parse_from_HTML(raw_game_log)
-        stats = Stats(log)
-        stats.breakdown()
-
-
-def test_main():
-    """Use a local HTML file to test stats breakdown."""
-    html = None
-    with open('/home/jgunter/Projects/gaia-project-scraper/test_log.txt') as f:
-        html = f.read()
-
     if html:
         soup = BeautifulSoup(html, 'lxml')
         raw_game_log = soup.find('div', class_='col-12 order-last mt-4')
