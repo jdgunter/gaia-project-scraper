@@ -1,3 +1,4 @@
 beautifulsoup4==4.8.0
+lxml==4.4.1
 selenium==3.141.0
 tabulate==0.8.7
