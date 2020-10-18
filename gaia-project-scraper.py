@@ -214,6 +214,7 @@ class ResourceStats:
     """Object which tracks all stats related to non-VP resources."""
     
     _RESOURCE_TO_FIELD_MAP = {
+        Res.POWER: 'power',
         Res.COIN: 'coins',
         Res.ORE: 'ore',
         Res.KNOWLEDGE: 'knowledge',
@@ -237,15 +238,13 @@ class ResourceStats:
             return
         # The type of change should be ChangeType.GAIN if it is not ChangeType.LOSS.
         assert change.type == ChangeType.GAIN
-        # Handle power specially as both power and leech may need to be incrememented.
-        if change.resource is Res.POWER:
-            if 'charge' == action:
-                self.leech += change.quantity
-            self.power += change.quantity
-        else:
-            field = ResourceStats._RESOURCE_TO_FIELD_MAP[change.resource]
-            current_value = getattr(self,field)
-            setattr(self, field, current_value + change.quantity)
+        # Handle leech specially as it depends on the action taken, not the resource.
+        if 'charge' == action:
+            self.leech += change.quantity
+            
+        field = ResourceStats._RESOURCE_TO_FIELD_MAP[change.resource]
+        current_value = getattr(self,field)
+        setattr(self, field, current_value + change.quantity)
 
 
 class FactionStats(VPStats, ResourceStats):
